@@ -13,8 +13,8 @@ body {
 /*%% Box background color %%*/
 .box-container {
   display: flex;
-  width: 110 %;
-  height: 100vh;
+  width: 1009 %;
+  height: 97.7vh;
   flex-flow: row nowrap;
   justify-content: center;
   align-items: center;
